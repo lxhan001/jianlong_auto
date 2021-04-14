@@ -1,0 +1,7 @@
+test_login:
+  test_login_001:
+    account: '13290056207'
+    pwd: '1234'
+  test_login_002:
+    account: '13290056207'
+    pwd: '12345'
